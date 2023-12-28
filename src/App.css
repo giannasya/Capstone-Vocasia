@@ -1,0 +1,74 @@
+/* src/styles/tailwind.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+.container {
+	display: flex;
+}
+main {
+	width: 100%;
+	padding: 20px;
+}
+.sidebar {
+	background: #ededed;
+	color: #9cd548;
+	height: 100vh;
+	width: 200px;
+	transition: all 0.5s;
+}
+.top_section {
+	display: flex;
+	align-items: center;
+	padding: 20px 15px;
+}
+.logo {
+	font-size: 20px;
+	font-family: poppins;
+}
+.bars {
+	display: flex;
+	font-size: 25px;
+	margin-left: 50px;
+	margin-bottom: 30px;
+}
+.link {
+	display: flex;
+	color: #255804;
+	padding: 10px 15px;
+	gap: 15px;
+	transition: all 0.5s;
+}
+.link:hover {
+	background: #cee4ae;
+	color: #000;
+	transition: all 0.5s;
+}
+.active {
+	margin-right: 10px;
+	border-radius: 50px;
+	background: #9cd548;
+	color: #000;
+}
+.icon,
+.link_text {
+	display: flex;
+	align-items: center;
+	font-size: 20px;
+	font-family: poppins;
+}
+
+.judul {
+	font-family: Harabara Mais Demo;
+	font-size: 30px;
+	color: #255804;
+}
+
+.item {
+	font-size: 50px;
+}

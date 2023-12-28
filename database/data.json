@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "tanggal": "2023-10-15",
+      "jenis": "Sampah Anorganik",
+      "berat": 1,
+      "harga": 3000
+    },
+    {
+      "id": 2,
+      "tanggal": "2023-11-02",
+      "jenis": "Sampah Organik",
+      "berat": 3,
+      "harga": 9000
+    },
+    {
+      "id": 3,
+      "tanggal": "2023-11-18",
+      "jenis": "Sampah B3",
+      "berat": 5,
+      "harga": 15000
+    },
+    {
+      "id": 4,
+      "tanggal": "2023-11-26",
+      "jenis": "Sampah Organik",
+      "berat": 1,
+      "harga": 3000
+    },
+    {
+      "id": 5,
+      "tanggal": "2023-12-03",
+      "jenis": "Sampah Anorganik",
+      "berat": 1,
+      "harga": 6000
+    },
+    {
+      "id": 6,
+      "tanggal": "2023-12-20",
+      "jenis": "Sampah Masyarakat",
+      "berat": 60,
+      "harga": 6666
+    },
+    {
+      "jenis": "Anorganik",
+      "berat": 13,
+      "harga": 300,
+      "tanggal": "2023-12-27",
+      "id": 7
+    },
+    {
+      "jenis": "B3",
+      "berat": 13,
+      "harga": 3333,
+      "tanggal": "2023-12-01",
+      "id": 8
+    },
+    {
+      "jenis": "Anorganik",
+      "berat": 31,
+      "harga": 1222,
+      "tanggal": "2023-12-26",
+      "id": 9
+    },
+    {
+      "jenis": "Organik",
+      "berat": 5,
+      "harga": 5000,
+      "tanggal": "2023-12-28",
+      "id": 10
+    }
+  ]
+}
